@@ -2868,7 +2868,7 @@ input[type="button"].small,
 
 #header {
 	background-attachment: scroll, scroll, fixed;
-	background-image: url("images/top-3200.svg"), url("images/overlay.webp"), url("../../images/header.webp");
+	background-image: url("images/top-3200.svg"), url("images/overlay.webp"), url("../../images/cloudy.svg");
 	background-color: #474148;
 	background-position: bottom center, top left, center center;
 	background-repeat: repeat-x, repeat, no-repeat;
@@ -2966,7 +2966,7 @@ input[type="button"].small,
 
 #footer {
 	background-attachment: scroll;
-	background-color: #544d55;
+	background-color: #2e2a2f;
 	background-image: url("images/bottom-3200.svg");
 	background-position: top center;
 	background-repeat: repeat-x;
@@ -3206,7 +3206,7 @@ input[type="button"].small,
 
 	#header {
 		background-attachment: scroll, scroll, scroll;
-		background-image: url("images/top-1600.svg"), url("images/overlay.webp"), url("../../images/header.webp");
+		background-image: url("images/top-1600.svg"), url("images/overlay.webp"), url("../../images/cloudy.svg");
 		background-size: 1600px 230px, auto, cover;
 		padding: 6em 0 12em 0;
 	}
@@ -3362,7 +3362,7 @@ input[type="button"].small,
 	/* Header */
 
 	#header {
-		background-image: url("images/top-1280.svg"), url("images/overlay.webp"), url("../../images/header.webp");
+		background-image: url("images/top-1280.svg"), url("images/overlay.webp"), url("../../images/cloudy.svg");
 		background-size: 1280px 184px, auto, cover;
 		padding: 3em 0 7em 0;
 	}
